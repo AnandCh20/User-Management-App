@@ -1,3 +1,12 @@
+Instructions to run the project:
+1. Run the server on localhost
+2. Click on the start button to show the users
+3. Table will open in front of you containing  id, title and body.
+4. Global search input to filter all columns.
+5. Column-based filtering is Implemented.
+6. By Clicking on title you can sort the column on the basis of name.
+7. Pagination is also implemented.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
